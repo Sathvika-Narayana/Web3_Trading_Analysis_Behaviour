@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Web3 Trading Behaviour Analysis:
 
 📌 Project Overview:
@@ -106,3 +107,6 @@ Key Features:
 3. **Technical Depth**: Explains non-trivial implementation choices
 4. **Actionable Format**: Clear tabular presentation of results
 5. **Strict Compliance**: Explicit verification of all requirements
+=======
+# Web3_Trading_Analysis_Behaviour
+>>>>>>> 70f66dfbd680f3e1b38e03612b584e4ed0990c43
