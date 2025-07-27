@@ -1,0 +1,5 @@
+Extreme Greed (value > 75) Period Strategy: Reduce positions by 30%, tighten stop-losses
+Greed (50-75) Period Strategy: Take partial profits at 5% gains
+Neutral (30-50) Period Strategy: Normal trading ranges
+Fear (15-30) Period Strategy: Scale into positions gradually
+Extreme Fear (<15) Period Strategy: Aggressive buying with 2x normal position size

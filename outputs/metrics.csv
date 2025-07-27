@@ -1,0 +1,8 @@
+,pnl,pnl,leverage,trade_size,profitability
+,mean,count,mean,sum,mean
+sentiment,,,,,
+Extreme Greed,25.42,6962,962050.2,39406770.25,0.49
+Fear,50.05,133871,1192661.14,704158492.98,0.42
+Greed,87.89,36289,158534.73,115503671.85,0.45
+Neutral,22.23,7141,149270.99,21843234.35,0.32
+Unknown,2.66,26961,431459.98,310275273.03,0.35
